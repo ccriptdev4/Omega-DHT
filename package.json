@@ -1,0 +1,16 @@
+{
+  "name": "omega-dht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maida",
+  "license": "ISC",
+  "dependencies": {
+    "bitdht": "git+https://lab.l1fe.tech/omega/dht-relay",
+    "crypto": "git+https://lab.l1fe.tech/omega/crypto",
+    "dht": "git+https://lab.cheetah.agency/omega/bitdht"
+  }
+}
